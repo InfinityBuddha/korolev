@@ -1,0 +1,28 @@
+html {
+	font-family: 'Arsenal', 'Helvetica', sans-serif;
+	font-size: 18px;
+	line-height: 1.4em;
+}
+
+header {
+	margin-bottom: 65px;
+}
+
+body {
+	max-width: 860px;
+	padding: 1em calc(50% - 430px);
+}
+
+h1,h2,h3 {
+	font-family: 'Roboto', sans-serif;
+	line-height: 1.4em;
+}
+
+section {
+	margin-bottom: 45px;
+}
+
+ul p {
+	font-size: 1.2em;
+	font-weight: bold;
+}
