@@ -9,8 +9,8 @@ header {
 }
 
 body {
-	max-width: 860px;
-	padding: 1em calc(50% - 430px);
+	max-width: 960px;
+	padding: 1em calc(50% - 480px);
 }
 
 h1,h2,h3 {
