@@ -24,5 +24,23 @@ section {
 
 ul p {
 	font-size: 1.2em;
-	font-weight: bold;
+}
+
+.about {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+}
+
+.about__group {
+	width: 450px;
+}
+
+.about__list {
+	padding: 0;
+	list-style: none;
+}
+
+.about__list span {
+	font-weight: 700;
 }
