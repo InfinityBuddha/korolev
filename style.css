@@ -4,10 +4,6 @@ html {
 	line-height: 1.4em;
 }
 
-header {
-	margin-bottom: 65px;
-}
-
 body {
 	max-width: 960px;
 	padding: 1em calc(50% - 480px);
@@ -16,16 +12,15 @@ body {
 h1,h2,h3 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
-	line-height: 1.4em;
+	line-height: 48px;
+	margin: 24px 0;
 }
 
-section {
-	margin-bottom: 45px;
+p {
+	line-height: 24px;
+	margin: 24px 0;
 }
 
-ul p {
-	font-size: 1.2em;
-}
 
 .about__group {
 	display: flex;
