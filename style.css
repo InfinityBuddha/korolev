@@ -15,6 +15,7 @@ body {
 
 h1,h2,h3 {
 	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
 	line-height: 1.4em;
 }
 
@@ -26,17 +27,13 @@ ul p {
 	font-size: 1.2em;
 }
 
-.about {
-	display: flex;
-	flex-flow: row nowrap;
-	justify-content: space-between;
-}
-
 .about__group {
-	width: 450px;
+	display: flex;
+
 }
 
 .about__list {
+	width: 50%;
 	padding: 0;
 	list-style: none;
 }
